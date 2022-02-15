@@ -1,0 +1,14 @@
+{
+    "name": "shovkan/slim",
+    "require": {
+        "php": "8.1",
+        "slim/psr7": "*",
+        "slim/slim": "^4.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shovkan\\Slim\\": "src/"
+        }
+    }
+}
